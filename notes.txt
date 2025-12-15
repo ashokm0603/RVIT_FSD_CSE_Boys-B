@@ -1,0 +1,49 @@
+Working principe of browser : 
+------------------------------
+
+
+HTML : 
+-----
+    ->HTML stands for "HYPER TEXT MARKUP LANGUAGE "
+    ->html is used to build structure of the web page 
+    ->the present version of HTML "HTML-5"
+    ->Html is introduced in the year 1991 by the developer "Tim bernsers lie"
+    ->Html have series of "HTML Elements"
+
+HTML Tags : 
+-----------
+    ->Tags are the predefine word which inclosed with both opening and closing angular brackets
+    ->Ex: <h1>, <div> , <p> ....etc
+
+
+    ->Types of Tags : 
+            1. paired Tags  : 
+                ->Any tags having both opening and closing tags 
+                ->Ex: <h1></h1> , <p></p>
+                ->In Paired tags farther divided into 3 types : 
+                    1. heading tags : Ex: 
+                            <h1></h1>
+                            <h2></h2>
+                            <h3></h3>
+                            <h4></h4>
+                            <h5></h5>
+                            <h6></h6>
+
+
+                    2. formatting tags : 
+                            1. <b></b>
+                            2. <strong></strong>
+                            3. <i> </i>
+                            4. <em></em>
+                            5. <sub></sub>
+                            6. <sup></sup>
+                            7. <mark></mark>
+                            8. <center></center>
+                            9. <strick></strick>
+                            10. <u></u>
+
+                    3. other tags 
+
+
+
+            2. Unpaired Tags  
