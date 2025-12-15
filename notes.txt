@@ -43,7 +43,52 @@ HTML Tags :
                             10. <u></u>
 
                     3. other tags 
+                        Ex: <div></div>, 
+                            <p></p> ,
+                            <ol></ol>,
+                            <ul></ul>
+                            <li></li> ...etc 
 
 
 
-            2. Unpaired Tags  
+
+            2. Unpaired Tags/ self closing tags : 
+            --------------------------------------
+                ->Any tags having only opening tags 
+                ->Ex: 
+                     1. <hr/>
+                     2. <img/>
+                     3. <input/> ..etc 
+
+
+
+HTML Structure / HTML boilerPlate : 
+-------------------------------------
+
+
+HTML Attributes : 
+-----------------
+    ->Attributes are the extra information given to the html tags 
+    ->Attributes are always in key and value pair 
+                ex:  name="viewport" 
+
+
+    ->Attributes are always in opening or static tags 
+        Ex: <h1 align="center">Hello</h1> 
+
+
+
+Image tag :  
+-----------
+    -> tag <img/>
+
+    ->Image tag Attributes : 
+         1. src(source)-> src will accept image address as a value
+                       -> Here can pass two images address 
+                            1. relative path(browser image address)
+                            2. absolute path(downloaded image/local image address)
+
+         2. alt : ->If we to display alternate name of the image this will work when image path wrong 
+
+         3. height : set height of the image (numbers / px)
+         4. width :set width of the image (numbers /px)
